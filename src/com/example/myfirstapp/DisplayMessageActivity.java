@@ -31,7 +31,7 @@ public class DisplayMessageActivity extends Activity {
     
         TextView textView2 = (TextView) findViewById(R.id.textView2);
         textView2.setTextSize(40);
-        textView2.setText(message + "123");
+        textView2.setText(message + "123456");
         //setContentView(textView2);
     }
 
